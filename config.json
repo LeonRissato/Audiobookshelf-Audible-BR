@@ -1,0 +1,7 @@
+{
+  "abs_url": "http://192.168.1.123:13378",
+  "abs_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlJZCI6IjgwYjk3MDBkLWY1MTItNDhmNC1hNWJjLWE1YjliOWQzOWUyYSIsIm5hbWUiOiJBdWRpYmxlQlJMb2NhbCIsInR5cGUiOiJhcGkiLCJpYXQiOjE3ODM5ODM1MzF9.ygJGoRO531Boser6gAuppgblUwP1e5zj7DKpo_9RIjI",
+  "provider_port": 5557,
+  "provider_auth": "",
+  "audible_region_host": "api.audible.com.br"
+}

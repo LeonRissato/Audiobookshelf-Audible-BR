@@ -1,0 +1,8 @@
+{
+  "abs_url": "http://localhost:13378",
+  "abs_token": "COLE_SEU_TOKEN_DO_AUDIOBOOKSHELF_AQUI",
+  "provider_port": 5557,
+  "review_port": 5558,
+  "provider_auth": "",
+  "audible_region_host": "api.audible.com.br"
+}
